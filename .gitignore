@@ -1,11 +1,17 @@
-# Jupyter 文件夹
+# Jupyter 临时文件
 .ipynb_checkpoints/
 
 # Python 缓存
 __pycache__/
 *.pyc
 
-# 环境变量或配置
+# 数据缓存或敏感内容
+*.csv
+*.xlsx
+data/
+output/
+
+# 环境文件
 .env
 
 # 系统文件
