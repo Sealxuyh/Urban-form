@@ -10,6 +10,7 @@ __pycache__/
 *.xlsx
 data/
 output/
+code/archive/
 
 # Environment variables
 .env
