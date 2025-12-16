@@ -60,7 +60,7 @@ References:
 - **Economic**: Night-time light intensity (NPP–VIIRS-like data)
 - **Environmental**: Daytime urban heat island intensity (July 2020)
 
-### Urban Form Indicators
+### Urban form indicators
 
 - 40 indicators capturing:
   - Building morphology
@@ -68,7 +68,7 @@ References:
   - Land use intensity
   - Vegetation and surface permeability
 
-### Modeling and Interpretation
+### Modeling and interpretation
 
 - **XGBoost** selected based on model comparison
 - **SHAP** used for:
