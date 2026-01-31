@@ -1,16 +1,18 @@
-# **Urban form and multi-dimensional performance**
+# ***Urban form shapes multiple pathways to sustainable city performance**
 
 This repository contains the code used in the study:
 
-**Optimizing urban form through social, economic, and environmental performance: A three-dimensional production possibility frontier approach in 36 Chinese cities**
+**Urban form shapes multiple pathways to sustainable city performance**
 
-The project develops a three-dimensional Production Possibility Frontier (PPF) to benchmark urban performance and investigates how urban form drives performance gaps using machine learning and explainable AI methods.
+The project develops a three-dimensional Production Possibility Frontier (PPF) to benchmark sustainable city performance and investigates how urban form is associated with performance gaps using machine learning and explainable AI methods.
+
+![fig_pathway](.\figures\fig_pathway.png)
 
 
 
 ## Project overview
 
-Cities face inherent trade-offs between social vitality, economic output, and environmental quality. This project:
+Cities are increasingly expected to deliver social vitality, economic productivity and environmental resilience simultaneously. Yet urban policies and design interventions often generate uneven outcomes, revealing persistent trade-offs rather than universal win-win solutions. This project:
 
 - Constructs a 3D PPF to define the empirical upper bound of jointly attainable urban performance
 
@@ -54,7 +56,7 @@ References:
 
 ## Method summary
 
-### Performance indicators
+### Multidimensional performance indicators
 
 - **Social**: Local social vitality derived from OD flows (based on Baidu location-based service data)
 - **Economic**: Night-time light intensity (NPP–VIIRS-like data)
@@ -75,7 +77,7 @@ References:
   - Global feature importance
   - Nonlinear dependence analysis
   - Instance-level explanations
-- **K-means clustering (k = 4)** applied to SHAP vectors to identify heterogenous pathway toward high performance
+- **K-means clustering** applied to SHAP vectors to identify heterogenous pathway toward high performance
 
 
 
