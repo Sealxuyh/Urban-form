@@ -6,9 +6,7 @@ This repository contains the code used in the study:
 
 The project develops a three-dimensional Production Possibility Frontier (PPF) to benchmark sustainable city performance and investigates how urban form is associated with performance gaps using machine learning and explainable AI methods.
 
-```
-![github profile img](figures/fig_pathway.png)
-```
+![img](figures/fig_pathway.png)
 
 
 
