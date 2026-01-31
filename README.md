@@ -1,4 +1,4 @@
-# ***Urban form shapes multiple pathways to sustainable city performance**
+# **Urban form shapes multiple pathways to sustainable city performance**
 
 This repository contains the code used in the study:
 
@@ -6,7 +6,9 @@ This repository contains the code used in the study:
 
 The project develops a three-dimensional Production Possibility Frontier (PPF) to benchmark sustainable city performance and investigates how urban form is associated with performance gaps using machine learning and explainable AI methods.
 
-![fig_pathway](.\figures\fig_pathway.png)
+```
+![github profile img](figures/fig_pathway.png)
+```
 
 
 
