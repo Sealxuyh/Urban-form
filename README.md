@@ -69,7 +69,7 @@ References:
   - Vegetation and surface permeability
 
 | Urban form indicator              | Abbreviation         | Description                                                  |
-| --------------------------------- | -------------------- | ------------------------------------------------------------ |
+| :-------------------------------- | :------------------- | :----------------------------------------------------------- |
 | Building Count                    | buildingCount        | Number of buildings within the block                         |
 | Total Building Height             | totalHeight          | Sum of building heights within the block                     |
 | Average Building Height           | avgHeight            | Mean building height within the block                        |
