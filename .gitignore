@@ -9,6 +9,7 @@ __pycache__/
 *.csv
 *.xlsx
 data/
+model/
 output/
 code/archive/
 
